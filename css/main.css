@@ -1,5 +1,19 @@
 h1{
-color: blue;
+color: orange;
+background-color: slategray;
+font-size: 20px;
 text-decoration: underline;
-text-transform: uppercase;
+font-family: Arial;
+text-align: center;
 }
+
+p{
+    color: slategray;
+line-height: 30px;
+letter-spacing: 3px;
+}
+ul{
+    border-width: 4px;
+    border-style: solid;
+    border-color: crimson;
+    }
