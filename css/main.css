@@ -1,4 +1,4 @@
-h1{
+.error{
 color: orange;
 background-color: slategray;
 font-size: 20px;
@@ -6,7 +6,11 @@ text-decoration: underline;
 font-family: Arial;
 text-align: center;
 }
+p.success{
+color: #59c959;
 
+
+}
 p{
     color: slategray;
 line-height: 30px;
@@ -35,4 +39,10 @@ span{
 
 sup{
     color: blue;
+}
+
+#content{
+background-color: #000000;
+padding: 20px;
+
 }
